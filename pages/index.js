@@ -10,7 +10,7 @@ import {
   Stats,
   Testimonials,
 } from "../components";
-import styles from "../styles/styles";
+import styles from "../constants/styles";
 
 export default function Home() {
   return (

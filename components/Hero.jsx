@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../styles/styles";
+import styles from "../constants/styles";
 import { discount, robot } from "../assets";
 import Image from "next/image";
 import GetStarted from "./GetStarted";

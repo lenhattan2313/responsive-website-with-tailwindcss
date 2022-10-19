@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from "react";
 import { arrowUp } from "../assets";
-import styles from "../styles/styles";
+import styles from "../constants/styles";
 
 const GetStarted = () => {
   return (
